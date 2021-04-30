@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rexcfnghk
 - 👀 I’m interested in F# and Haskell
 - 🌱 I’m currently learning category theory
-- 💞️ I’m looking to collaborate on any interesting projects written with an FP language
+- 💞️ I’m looking to collaborate on any interesting projects written in an FP language
 - 📫 How to reach me: you can reach me by my email: rexcfnghk@gmail.com
 
 <!---
